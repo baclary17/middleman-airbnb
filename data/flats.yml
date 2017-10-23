@@ -1,0 +1,21 @@
+jt-hammond:
+  name: "Jesse's Crib"
+  description: "Y'all Already Know, Doe"
+  city_name: "Montréal, Québec"
+  city_slug: "Montreal"
+  wifi: false
+  rating: 4
+papillard:
+  name: "Sara's Crib"
+  description: Oh no she didn't...
+  city_name: "Ottawa, Ontario"
+  city_slug: "Canadia"
+  wifi: true
+  rating: 3
+monsieurpaillard:
+  name: Aye-Aye-RON's Momma's House
+  description: Homeslice Like WHOA
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
